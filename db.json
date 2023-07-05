@@ -1,4 +1,5 @@
-[
+{
+  "products": [
   {
     "id": 1,
     "name": "Men Slim Fit Casual Shirt",
@@ -9,3 +10,4 @@
     "wear": "Topwear"
   }
 ]
+}
