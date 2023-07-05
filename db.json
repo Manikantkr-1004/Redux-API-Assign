@@ -8,6 +8,105 @@
     "brand": "Puma",
     "category": "Men",
     "wear": "Topwear"
+  },
+  {
+    "id": 2,
+    "name": "Women Printed Top",
+    "image": "<image link here>",
+    "price": 1499,
+    "brand": "Frisker",
+    "category": "Women",
+    "wear": "Topwear"
+  },
+  {
+    "id": 3,
+    "name": "Men Slim Fit Denim Jeans",
+    "image": "<image link here>",
+    "price": 2499,
+    "brand": "Roadster",
+    "category": "Men",
+    "wear": "Bottomwear"
+  },
+  {
+    "id": 4,
+    "name": "Kids Casual T-shirt",
+    "image": "<image link here>",
+    "price": 999,
+    "brand": "Wrogn",
+    "category": "Kids",
+    "wear": "Topwear"
+  },
+  {
+    "id": 5,
+    "name": "Women Floral Skirt",
+    "image": "<image link here>",
+    "price": 1899,
+    "brand": "Frisker",
+    "category": "Women",
+    "wear": "Bottomwear"
+  },
+  {
+    "id": 6,
+    "name": "Men Sports Shoes",
+    "image": "<image link here>",
+    "price": 2999,
+    "brand": "Puma",
+    "category": "Men",
+    "wear": "Footwear"
+  },
+  {
+    "id": 7,
+    "name": "Women Party Dress",
+    "image": "<image link here>",
+    "price": 3499,
+    "brand": "Roadster",
+    "category": "Women",
+    "wear": "Topwear"
+  },
+  {
+    "id": 8,
+    "name": "Kids Hooded Jacket",
+    "image": "<image link here>",
+    "price": 1999,
+    "brand": "Wrogn",
+    "category": "Kids",
+    "wear": "Topwear"
+  },
+  {
+    "id": 9,
+    "name": "Men Formal Trousers",
+    "image": "<image link here>",
+    "price": 2799,
+    "brand": "Frisker",
+    "category": "Men",
+    "wear": "Bottomwear"
+  },
+  {
+    "id": 10,
+    "name": "Women Flip Flops",
+    "image": "<image link here>",
+    "price": 799,
+    "brand": "Puma",
+    "category": "Women",
+    "wear": "Footwear"
+  },
+  {
+    "id": 11,
+    "name": "Men Polo T-shirt",
+    "image": "<image link here>",
+    "price": 1599,
+    "brand": "Roadster",
+    "category": "Men",
+    "wear": "Topwear"
+  },
+  {
+    "id": 12,
+    "name": "Kids Printed Sweatshirt",
+    "image": "<image link here>",
+    "price": 1499,
+    "brand": "Wrogn",
+    "category": "Kids",
+    "wear": "Topwear"
   }
 ]
 }
